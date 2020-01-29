@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="31dc283f-5b03-473c-945a-5b8d1e7f394c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1X4m5EmoP3fSM78ALosOHBKN5jK" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager" selected="Application.LinkedHashSetExemplo">
+    <configuration name="ArrayListExemplo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aplicacao.list.ArrayListExemplo" />
+      <module name="collections" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="aplicacao.list.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HashSetExemplo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aplicacao.set.HashSetExemplo" />
+      <module name="collections" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="aplicacao.set.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LinkedHashSetExemplo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aplicacao.set.LinkedHashSetExemplo" />
+      <module name="collections" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="aplicacao.set.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LinkedListExemplo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aplicacao.list.LinkedListExemplo" />
+      <module name="collections" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="aplicacao.list.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StackExemplo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aplicacao.list.StackExemplo" />
+      <module name="collections" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="aplicacao.list.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.LinkedHashSetExemplo" />
+        <item itemvalue="Application.HashSetExemplo" />
+        <item itemvalue="Application.StackExemplo" />
+        <item itemvalue="Application.LinkedListExemplo" />
+        <item itemvalue="Application.ArrayListExemplo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="31dc283f-5b03-473c-945a-5b8d1e7f394c" name="Default Changelist" comment="" />
+      <created>1580313555213</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580313555213</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="576" height="99" key="GridCell.Tab.0.bottom" timestamp="1580316903602">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="576" height="99" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1580316903602" />
+    <state width="576" height="99" key="GridCell.Tab.0.center" timestamp="1580316903602">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="576" height="99" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1580316903602" />
+    <state width="576" height="99" key="GridCell.Tab.0.left" timestamp="1580316903601">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="576" height="99" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1580316903601" />
+    <state width="576" height="99" key="GridCell.Tab.0.right" timestamp="1580316903602">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="576" height="99" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1580316903602" />
+  </component>
+</project>
