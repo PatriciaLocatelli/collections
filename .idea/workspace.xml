@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="31dc283f-5b03-473c-945a-5b8d1e7f394c" name="Default Changelist" comment="" />
+    <list default="true" id="31dc283f-5b03-473c-945a-5b8d1e7f394c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +16,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1X4m5EmoP3fSM78ALosOHBKN5jK" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -22,21 +28,9 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ExercicioSemanaUmTechonocorp" />
   </component>
-  <component name="RunManager" selected="Application.LinkedHashSetExemplo">
-    <configuration name="ArrayListExemplo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="aplicacao.list.ArrayListExemplo" />
-      <module name="collections" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="aplicacao.list.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.HashSetExemplo">
     <configuration name="HashSetExemplo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="aplicacao.set.HashSetExemplo" />
       <module name="collections" />
@@ -89,13 +83,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TreeSetExemplo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aplicacao.set.TreeSetExemplo" />
+      <module name="collections" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="aplicacao.set.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.LinkedHashSetExemplo" />
         <item itemvalue="Application.HashSetExemplo" />
+        <item itemvalue="Application.LinkedHashSetExemplo" />
+        <item itemvalue="Application.TreeSetExemplo" />
         <item itemvalue="Application.StackExemplo" />
         <item itemvalue="Application.LinkedListExemplo" />
-        <item itemvalue="Application.ArrayListExemplo" />
       </list>
     </recent_temporary>
   </component>
@@ -113,21 +120,33 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="576" height="99" key="GridCell.Tab.0.bottom" timestamp="1580316903602">
+    <state x="838" y="145" width="424" height="484" key="FileChooserDialogImpl" timestamp="1580383470025">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="576" height="99" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1580316903602" />
-    <state width="576" height="99" key="GridCell.Tab.0.center" timestamp="1580316903602">
+    <state x="838" y="145" width="424" height="484" key="FileChooserDialogImpl/67.27.1299.741@67.27.1299.741" timestamp="1580383470025" />
+    <state width="1253" height="143" key="GridCell.Tab.0.bottom" timestamp="1580403301589">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="576" height="99" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1580316903602" />
-    <state width="576" height="99" key="GridCell.Tab.0.left" timestamp="1580316903601">
+    <state width="1253" height="143" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1580403301589" />
+    <state width="1253" height="143" key="GridCell.Tab.0.center" timestamp="1580403301588">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="576" height="99" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1580316903601" />
-    <state width="576" height="99" key="GridCell.Tab.0.right" timestamp="1580316903602">
+    <state width="1253" height="143" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1580403301588" />
+    <state width="1253" height="143" key="GridCell.Tab.0.left" timestamp="1580403301588">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="576" height="99" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1580316903602" />
+    <state width="1253" height="143" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1580403301588" />
+    <state width="1253" height="143" key="GridCell.Tab.0.right" timestamp="1580403301589">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="143" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1580403301589" />
+    <state x="678" y="215" key="com.intellij.ide.util.TipDialog" timestamp="1580383319194">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="678" y="215" key="com.intellij.ide.util.TipDialog/67.27.1299.741@67.27.1299.741" timestamp="1580383319194" />
+    <state x="67" y="27" width="1289" height="741" key="new project wizard" timestamp="1580399543675">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="67" y="27" width="1289" height="741" key="new project wizard/67.27.1299.741@67.27.1299.741" timestamp="1580399543675" />
   </component>
 </project>
