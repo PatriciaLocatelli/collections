@@ -3,6 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="31dc283f-5b03-473c-945a-5b8d1e7f394c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/collections/aplicacao/map/HashTableExemplo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/collections/aplicacao/map/HashTableExemplo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/aplicacao/map/HashTableExemplo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aplicacao/map/HashTableExemplo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/aplicacao/map/LinkedHashMapExemplo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aplicacao/map/LinkedHashMapExemplo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,15 +31,28 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ExercicioSemanaUmTechonocorp" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Application.HashSetExemplo">
-    <configuration name="HashSetExemplo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="aplicacao.set.HashSetExemplo" />
+  <component name="RunManager" selected="Application.PriorityQueueExemplo">
+    <configuration name="HashTableExemplo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aplicacao.map.HashTableExemplo" />
       <module name="collections" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="aplicacao.set.*" />
+          <option name="PATTERN" value="aplicacao.map.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LinkedHashMapExemplo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aplicacao.map.LinkedHashMapExemplo" />
+      <module name="collections" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="aplicacao.map.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -57,12 +73,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LinkedListExemplo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="aplicacao.list.LinkedListExemplo" />
+    <configuration name="PriorityQueueExemplo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aplicacao.queue.PriorityQueueExemplo" />
       <module name="collections" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="aplicacao.list.*" />
+          <option name="PATTERN" value="aplicacao.queue.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -83,26 +99,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TreeSetExemplo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="aplicacao.set.TreeSetExemplo" />
-      <module name="collections" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="aplicacao.set.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.HashSetExemplo" />
-        <item itemvalue="Application.LinkedHashSetExemplo" />
-        <item itemvalue="Application.TreeSetExemplo" />
+        <item itemvalue="Application.PriorityQueueExemplo" />
         <item itemvalue="Application.StackExemplo" />
-        <item itemvalue="Application.LinkedListExemplo" />
+        <item itemvalue="Application.LinkedHashMapExemplo" />
+        <item itemvalue="Application.LinkedHashSetExemplo" />
+        <item itemvalue="Application.HashTableExemplo" />
       </list>
     </recent_temporary>
   </component>
@@ -124,22 +127,22 @@
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state x="838" y="145" width="424" height="484" key="FileChooserDialogImpl/67.27.1299.741@67.27.1299.741" timestamp="1580383470025" />
-    <state width="1253" height="143" key="GridCell.Tab.0.bottom" timestamp="1580403301589">
+    <state width="1253" height="143" key="GridCell.Tab.0.bottom" timestamp="1580814901879">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1253" height="143" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1580403301589" />
-    <state width="1253" height="143" key="GridCell.Tab.0.center" timestamp="1580403301588">
+    <state width="1253" height="143" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1580814901879" />
+    <state width="1253" height="143" key="GridCell.Tab.0.center" timestamp="1580814901876">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1253" height="143" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1580403301588" />
-    <state width="1253" height="143" key="GridCell.Tab.0.left" timestamp="1580403301588">
+    <state width="1253" height="143" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1580814901876" />
+    <state width="1253" height="143" key="GridCell.Tab.0.left" timestamp="1580814901875">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1253" height="143" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1580403301588" />
-    <state width="1253" height="143" key="GridCell.Tab.0.right" timestamp="1580403301589">
+    <state width="1253" height="143" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1580814901875" />
+    <state width="1253" height="143" key="GridCell.Tab.0.right" timestamp="1580814901877">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1253" height="143" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1580403301589" />
+    <state width="1253" height="143" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1580814901877" />
     <state x="678" y="215" key="com.intellij.ide.util.TipDialog" timestamp="1580383319194">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
